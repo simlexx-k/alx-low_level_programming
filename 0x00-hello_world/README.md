@@ -1,1 +1,2 @@
-# Hello world in C programming
+# Hello world in C Programming
+# Working on C assesments
