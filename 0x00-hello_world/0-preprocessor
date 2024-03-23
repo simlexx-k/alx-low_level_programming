@@ -2,7 +2,4 @@
 
 CFILE="main.c"
 
-FILENAME=$(basename "$CFILE" .c)
-
-gcc -c "$CFILE" -o "$FILENAME.o"
-
+gcc -E "$CFILE" -o c
