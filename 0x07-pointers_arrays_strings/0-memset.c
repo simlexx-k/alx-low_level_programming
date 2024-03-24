@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _memset - ironnou
- * @s: pointer to char params
- * @b: data to change
+ * _memset - function that fills memory with a constant byte
+ * @s: pointer to char parameters
+ * @b: data to be changed
  * @n: index
  * Return: *s
  */
