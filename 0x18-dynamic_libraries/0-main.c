@@ -1,16 +1,13 @@
-#!/bin/bash
 #include "main.h"
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - check the code
  *
- * Description: A sample program to test the _strlen function.
- *
- * Return: Always 0 (Success)
+ * Return: Always EXIT_SUCCESS.
  */
 int main(void)
 {
     printf("%d\n", _strlen("My Dyn Lib"));
-    return (0);
+    return (EXIT_SUCCESS);
 }
