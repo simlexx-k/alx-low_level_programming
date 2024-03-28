@@ -1,5 +1,10 @@
 #include "main.h"
 
+/*
+ * _strspn.c - Description of the file
+ *
+ * Description of each file individually.
+ */
 unsigned int _strspn(char *s, char *accept)
 {
     unsigned int count = 0;

@@ -1,5 +1,10 @@
 #include "main.h"
 
+/*
+ * _atoi.c - Description of the file
+ *
+ * Description of each file individually.
+ */
 int _atoi(char *s)
 {
     int sign = 1, res = 0;

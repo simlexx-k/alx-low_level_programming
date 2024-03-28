@@ -1,5 +1,10 @@
 #include "main.h"
 
+/*
+ * _strstr.c - Description of the file
+ *
+ * Description of each file individually.
+ */
 char *_strstr(char *haystack, char *needle)
 {
     while (*haystack)

@@ -1,5 +1,10 @@
 #include "main.h"
 
+/*
+ * _isdigit.c - Description of the file
+ *
+ * Description of each file individually.
+ */
 int _isdigit(int c)
 {
     return (c >= '0' && c <= '9');
